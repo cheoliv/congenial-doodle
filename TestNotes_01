@@ -3,5 +3,6 @@ package com.olivier.test.project
 public class MyTestProject {
   public void static main(arg[] ){
     System.out.println("This is a test code...");
+    System.out.println("Adding another line...");
   }
 }
